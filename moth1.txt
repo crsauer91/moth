@@ -1,0 +1,22 @@
+THE MOTH WHO WROTE COMMITS INTO THE VOID: A 5000-WORD SPRINT THROUGH ABSURDITY, DESPAIR, AND FOOT-RELATED EXISTENTIALISM
+
+Once upon a time, in a decaying Khrushchyovka somewhere between Irkutsk and your mom’s moral compass, lived a moth named Grigoriy Leatherflapov. Grigoriy was no ordinary moth—he had dreams, you see. Dreams not of lightbulbs, but of light mode. He longed not for a flame, but for a repository. And most of all, he longed to understand why the f*** every time he tried to push to main, the commit message said “feet hurt.”
+One night, overwhelmed by the futility of merging changes nobody asked for, Grigoriy flew into the warm, sterile glow of a podiatrist’s neon sign. His wings, coded in HTML and broken promises, fluttered like a dev’s hope on demo day.
+Inside sat Dr. Yevgeny Toechevski, a man so emotionally numb he made a turnip look like Oprah. The man had fingers like kielbasa and breath that could knock a falcon out of flight. He didn’t blink. Not once. That was his thing.
+“Why are you here?” grunted Yevgeny without looking up from a badly annotated foot x-ray shaped suspiciously like a bootleg Super Mario.
+And Grigoriy, God help us, began to speak.
+⸻
+“Doctor,” the moth began, “I’ve been committing to life for years, but I’m stuck in a loop. Every pull request leads me back to the same issue: chronic toe-based despair. You ever tried refactoring regret, doc? It’s like bunions on your soul.”
+Yevgeny didn’t flinch. Somewhere in the back room, a nurse cried into a jar of orthopedic inserts.
+“I once loved a butterfly named Vladimira,” the moth continued, antennae drooping like a depressed semaphore. “She left me for a cockroach who could do git rebase without crying.”
+Meanwhile, the podiatrist reached for a bottle of rubbing alcohol with the same energy your dad uses to pretend your birth certificate doesn’t exist.
+“I forked my own heart, doc,” sobbed the moth. “And now I’m in a foot clinic asking a man who smells like expired mayonnaise if my emotional corns are terminal.”
+Yevgeny nodded, finally speaking. “You need arch support. And probably God.”
+And then he performed surgery on himself.
+⸻
+Meanwhile, in a completely unrelated incident:
+	1.	A man in Minsk tried to marry a toaster because it was the only thing that had ever listened to him without judgement.
+	2.	A parrot in Vladivostok learned how to quote Nietzsche but only used it to win arguments with cats.
+	3.	Your father, statistically, is hiding in a bowling alley and refusing to return your texts because you remind him too much of your Aunt Luba’s third chin.
+⸻
+Anyway, Grigoriy the moth eventually rage-quit GitHub, became a shoe insert, and died inside a Croc™ during a ska concert.
