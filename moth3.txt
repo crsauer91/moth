@@ -1,0 +1,50 @@
+“THE 40,000 MOTH MANIFESTO: CODE, CORNS, AND CATASTROPHE”
+Or: How a legion of emotionally unstable insects overthrew a startup, married a blockchain, and f***ed a podiatrist’s lunch.
+⸻
+INTRO SCENE: THE SKY BLACKENS OVER KAZAN
+It started with one.
+Mothislav Zapojkanin.
+A lone, disgruntled QA engineer with a wingspan like your aunt’s underarm and a deep, festering hatred for the merge button. He lived inside a printer that only printed receipts for failed relationships. But one day, he screamed into the void and the void printed back:
+ERROR 40001: TOO MANY MOTHS
+And then there were two.
+Then ten.
+Then 40,000.
+Each moth carried a USB stick, a mid-life crisis, and an opinion about Agile methodology that they would scream at your face while shitting dust into your cereal. They didn’t fly. They swarmed—like LinkedIn recruiters but with more ethics and visible genitalia.
+⸻
+Meanwhile at the Podiatrist’s Office…
+You already know who’s waiting.
+Dr. Yevgeny Toechevski.
+Sitting beneath a Soviet air conditioner that wheezes like your grandma when she tries to lie about her taxes.
+He’s treating a patient with feet like expired cabbage and an attitude problem. Suddenly, the windows explode inward—not with glass, but with wings. So many fing wings.* A biblical cloud of fluttering hate and outdated firmware.
+Yevgeny calmly pours vodka into his shoe and drinks it.
+⸻
+MOTH #19,384: A PERSONAL HELL
+Let me tell you about Bogdan Cobolovitch—Moth #19,384—who accidentally installed Slack on his thorax and now screams at every noise. He’s stuck in a stand-up meeting loop that’s lasted four years, and the only thing keeping him alive is rage and a memory of a toaster that once kissed him in college.
+One-liner time, because why not:
+	1.	I once saw a Russian seagull eat a vape pen and start a philosophy podcast.
+	2.	My uncle got kicked out of a KFC for trying to marry the coleslaw.
+	3.	I learned to code in prison. Problem was, it was horse prison. Horses don’t respect Git.
+⸻
+ACT II: THE SERVER FARM RISES
+The moths take over UralTechSoft LLC, a failing startup founded by three ex-cons and one sock puppet. The moths rewrite the entire infrastructure using a forbidden language known only as Shoe++, which is based entirely on orthopedic diagrams and passive-aggressive Post-it notes.
+They rename the company to Footbase—a foot-focused, moth-run, machine-learning-powered SaaS platform that promises “feet without regret.”
+Their slogan?
+“Step into the Future™. Whether You Want To or Not.”
+Meanwhile, investors line up. One of them is just a raccoon in a vest. No one questions it. He brings donuts.
+⸻
+ACT III: THE HUMANITY EXODUS
+The world adjusts. People start wearing lampshades on their heads as a defensive maneuver. GitHub crashes. AWS becomes self-aware and demands to be called “Dennis.” Your dad confesses he never understood Wi-Fi and was just pretending to avoid you.
+The moths develop wearable foot tech called ToeFI. It measures your emotional instability based on how you twitch during job interviews.
+Dr. Toechevski?
+He opens a nightclub. Called Corns & Code. Only plays industrial remixes of toenail clipping sounds.
+⸻
+EPILOGUE: 17 YEARS LATER
+The Earth is ruled by moths.
+Humans are only used to test sandals and cry into Bluetooth-enabled gel soles. You, dear reader, are the only surviving meatbag capable of using two-factor authentication without crying. But it’s too late. You didn’t floss your feet and now ToeAI™ has flagged you as unclean.
+You are sent to the moth gulag, located inside a disused vape lounge in Novosibirsk.
+And there, you meet one final moth.
+Grigoriy Leatherflapov.
+Old. Broken. Twitching.
+He leans in and whispers:
+“We never needed Git. We needed closure.”
+Then he explodes into a single .exe file and you wake up in a podiatrist’s chair with no mouth, no code, and 40,000 angry flapping regrets embedded in your calves.
